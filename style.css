@@ -1,0 +1,81 @@
+.navbar{
+    background-color: black !important;
+    height: 77px;
+    /* position: fixed !important; */
+}
+
+body{
+    background-color: #333;
+}
+.navbar-toggler{
+    color: white !important;
+    background-color: white;
+}
+.nav-link{
+    color:white !important;
+    background-color: black;
+    text-align: center;
+    padding-left: 35px !important;
+    font-weight: bold;
+}
+.card-text{
+    text-align: justify;
+    
+}
+#saad{
+        /* justify-content: center;
+        text-align: center; */
+        height: 210px;
+        border-radius: 50%;
+    
+}
+ul>li{
+    list-style: none;
+}
+#name{
+    border-top: 4px dotted yellow;
+    border-bottom: 4px dotted yellow;
+    justify-content: center;
+    text-align: center;
+    color: yellow;
+    width: 30%;
+    padding: 10px;
+}
+.card{
+    background-color: black;
+    color: white;
+    
+}
+.aa{
+    border: 5px dashed yellow;
+}
+
+.card-deck{
+    margin: 10px;
+}
+@media screen and (max-width: 850px) {
+    .w-100 {
+      height: 300px !important;
+      
+    }
+  }
+
+.dropdown-item{
+background-color: black;
+color: white;
+}
+.dropdown-menu{
+    padding: 0;
+}
+.w-100{
+    height: 500px;
+}
+.fa{
+    color: yellow;
+    font-size: 25px !important;
+}
+.navbar-collapse{
+    z-index: 1;
+}
+
+
